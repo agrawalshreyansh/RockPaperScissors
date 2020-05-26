@@ -1,0 +1,23 @@
+.img img:hover{
+    box-shadow: 0px 10px 50px rgb(9, 25, 245);
+}
+
+.rps-container {
+    border: 3px solid black;
+    width: 75%;
+    height: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.img {
+    display: flex;
+    border:1px solid black;
+    padding: 20px;
+    justify-content: space-around;
+    width: 80%;
+    height: 55%;
+    margin: 0 auto;
+    margin-top: 20;
+
+}
